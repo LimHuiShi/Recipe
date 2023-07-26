@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecipeTypes>
+  <RecipeType>Breakfast</RecipeType>
+  <RecipeType>Lunch</RecipeType>
+  <RecipeType>Dinner</RecipeType>
+  <RecipeType>Dessert</RecipeType>
+  <RecipeType>Soup</RecipeType>
+</RecipeTypes>
